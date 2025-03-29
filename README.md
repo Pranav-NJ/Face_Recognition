@@ -6,7 +6,7 @@
 - Version 2.0
 
 ## URL / Live demo
-- [louiejancevski.github.io/FacialEmotionDetector](https://louiejancevski.github.io/FacialEmotionDetector/)
+- [louiejancevski.github.io/FacialEmotionDetector](https://PRANAV-NJ.github.io/FacialEmotionDetector/)
 
 ## About this project
 The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
@@ -26,19 +26,19 @@ Very straightforward.
 
 Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to green.
 
-![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
+![App demo image](https://github.com/PRANAV-NJ/FacialEmotionDetector/blob/master/public/demo.png)
 
 On the other side,
 
 If he looks angry, the app will also catch that and display the right emoji and background color. 
 
-![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
+![App demo image](https://github.com/PRANAV-NJ/FacialEmotionDetector/blob/master/public/demo1.png)
 
 Same thing happens whenever his facial expression might look a bit neutral. 
 
 The emoji gets changed, and the background color gets updated as well.
 
-![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
+![App demo image](https://github.com/PRANAV-NJ/FacialEmotionDetector/blob/master/public/demo2.png)
 
 ## Detectable expressions
 
