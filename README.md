@@ -5,8 +5,7 @@
 - Version 2.0
 
 ## URL / Live demo
-- [pranav-nj.github.io/FacialEmotion_Detector](https://pranav-nj.github.io/FacialEmotion_Detector/)
-
+- [louiejancevski.github.io/FacialEmotionDetector](https://louiejancevski.github.io/FacialEmotionDetector/)
 ## About this project
 The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
 
